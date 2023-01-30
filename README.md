@@ -1,4 +1,4 @@
-[![Header](https://github.com/webdeveziz/webdeveziz/blob/main/assets/logo.png)](https://t.me/eziz1209)
+[![Header](https://github.com/webdeveziz/webdeveziz/blob/main/assets/logowithtext.png)](https://t.me/eziz1209)
 
 About me
 
