@@ -1,6 +1,6 @@
 [![Header](https://github.com/webdeveziz/webdeveziz/blob/main/assets/logowithtext.png)](https://t.me/eziz1209)
 
-## ``` <h1>My Apps</h1> ```
+## <h1>My Apps</h1>
 
 [![Google play](https://img.shields.io/badge/-Googleplay-090909?style=for-the-badge&logo=googleplay&logoColor=27AOD9)](https://play.google.com/store/apps/details?id=com.eziz.push_notification_react_native_app)
 
