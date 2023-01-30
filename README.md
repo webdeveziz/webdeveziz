@@ -23,9 +23,15 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=photoshop&logoColor=3178c6)
 
 ## Languages
+
 ![English](https://img.shields.io/badge/-English-090909?style=for-the-badge&logo=star&logoColor=27AOD9)
 ![Russian](https://img.shields.io/badge/-Russian-090909?style=for-the-badge&logo=star&logoColor=27AOD9)
 ![Turkmen](https://img.shields.io/badge/-Turkmen-090909?style=for-the-badge&logo=star&logoColor=27AOD9)
 
 ## Follow me
+
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27AOD9)](https://t.me/eziz1209)
+
+## Analytic
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webdeveziz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
