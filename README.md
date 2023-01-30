@@ -24,7 +24,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase&logoColor=ffa500)
 ![RestApi](https://img.shields.io/badge/-RestApi-090909?style=for-the-badge&logo=restapi&logoColor=ffa500)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=3178c6)
-![React native](https://img.shields.io/badge/-React%native-090909?style=for-the-badge&logo=reactnative&logoColor=3178c6)
+![React native](https://img.shields.io/badge/-ReactNative-090909?style=for-the-badge&logo=reactnative&logoColor=3178c6)
 
 ## Languages
 
