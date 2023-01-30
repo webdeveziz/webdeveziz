@@ -4,7 +4,7 @@
 
 [![Google play](https://img.shields.io/badge/-Googleplay-090909?style=for-the-badge&logo=googleplay&logoColor=27AOD9)](https://play.google.com/store/apps/details?id=com.eziz.push_notification_react_native_app)
 
-## Я Курбанназаров Эзиз, Frontend разработчик
+## Я Курбанназаров Эзиз, React Frontend разработчик.
 
 ## Programming Languages, Libraries and Tools
 
@@ -24,7 +24,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase&logoColor=ffa500)
 ![RestApi](https://img.shields.io/badge/-RestApi-090909?style=for-the-badge&logo=restapi&logoColor=ffa500)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=3178c6)
-![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=photoshop&logoColor=3178c6)
+![React native](https://img.shields.io/badge/-React%native-090909?style=for-the-badge&logo=reactnative&logoColor=3178c6)
 
 ## Languages
 
