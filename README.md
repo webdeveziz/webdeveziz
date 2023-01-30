@@ -20,7 +20,7 @@
 ![Styled](https://img.shields.io/badge/-Styled-090909?style=for-the-badge&logo=Styled&logoColor=c64c26)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Github](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=Github&logoColor=ffffff)
-![Gitlab](https://img.shields.io/badge/-Gitlab-090909?style=for-the-badge&logo=Gitlab&logoColor=ffffff)
+![Gitlab](https://img.shields.io/badge/-Gitlab-090909?style=for-the-badge&logo=Gitlab&logoColor=ffa500)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase&logoColor=ffa500)
 ![RestApi](https://img.shields.io/badge/-RestApi-090909?style=for-the-badge&logo=restapi&logoColor=ffa500)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=3178c6)
